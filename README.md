@@ -3,5 +3,5 @@
 ### Olá bem-vindo ao meu livro de receitas
 
 - Strogonoff de Frango
-
-- Pave de frango
+- Lasanha de frnago
+-  Peito de frango recheado com queijo
