@@ -2,6 +2,4 @@
 
 ### Olá bem-vindo ao meu livro de receitas
 
-- Strogonoff de Frango
-- Lasanha de frnago
--  Peito de frango recheado com queijo
+Aqui você encontra as receitas mais gostosas e rápidas de fazer.
