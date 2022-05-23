@@ -2,6 +2,4 @@
 
 ### Olá bem-vindo ao meu livro de receitas
 
-- Strogonoff de Frango
-
-- 
+Aqui você encontra as melhores receitas e mais rápidas de fazer
