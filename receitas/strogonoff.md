@@ -7,11 +7,9 @@
 * 1/2 celoba picada.
   
 * 3/4 dentes de alho.
-  
-* 3 colheres de mostarda.
-  
-* 3 colheres de ketchup.
-  
+
+* 3 colheres de ketchup e mostarda.
+
 * 1 caixa de creme de leite.
   
 * Sal, pimenta do reino, oregano, cominho e coentro (tudo a gosto).
